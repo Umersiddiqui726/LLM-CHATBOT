@@ -16,7 +16,6 @@ def get_data():
     cursor.execute("SELECT * FROM quotes")
     result = cursor.fetchall()
     db.close()
-    
     return jsonify(result)
 
 if __name__ == '__main__':
