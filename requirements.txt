@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+transformers
+tensforflow
+torch
+mysql-connector-python
+flask
+openai
+langchain
+streamlit
