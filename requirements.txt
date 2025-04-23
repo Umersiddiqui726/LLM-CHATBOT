@@ -1,11 +1,8 @@
 requests
 beautifulsoup4
 pandas
-transformers
-tensforflow
-torch
 mysql-connector-python
+transformers
+tensorflow
 flask
 openai
-langchain
-streamlit
